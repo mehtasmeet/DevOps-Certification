@@ -20,9 +20,6 @@
 Jenkins pipeline with stages as shown below, demonstrating the Springboot application build and deployment process automated with Docker and Jenkins with 'Pipeline as a Code' approach</br>
 
 
-<h2>Project Documentation</h2>
-
-
 <h2>Solution overview:</h2> 
 1) On a Linux (ubantu) machine, we are installing and configuring jenkins server.</br>
 2) In the jenkins server we are creating the pipeline based project (with the Jenkinsfile available in this repo as source)</br>
